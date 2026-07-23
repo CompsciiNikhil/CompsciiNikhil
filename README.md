@@ -1,6 +1,6 @@
 # Hey, I'm Nikhil Kumar 👋
 
-Final year CS undergrad at BNMIT, Bangalore. I build AI systems that solve real problems —
+Final year CS undergrad at BNMIT, Bangalore. I build AI systems that solve real problems -
 from detecting deepfakes to agentic travel planners. Currently exploring the intersection
 of ML, full-stack, and systems that actually ship.
 
@@ -24,7 +24,7 @@ of ML, full-stack, and systems that actually ship.
 
 ## Featured Projects
 
-### [GenMark — AI Content Origin & Misuse Detection](https://github.com/CompsciiNikhil/GenMark-AI-Content-Origin-Misuse-Detection)
+### [GenMark - AI Content Origin & Misuse Detection](https://github.com/CompsciiNikhil/GenMark-AI-Content-Origin-Misuse-Detection)
 Deepfake detection system that fingerprints AI-generated images using perceptual hashing (pHash),
 stores tamper-proof origin records on the **Algorand blockchain**, and logs metadata in MongoDB.
 Built with React + FastAPI.
@@ -48,7 +48,7 @@ Twilio alerts, SQLite logging. Built in Python.
 ## Experience
 
 **AI Engineering Intern @ E2E Management Services** *(Jun–Jul 2025)*
-Built a fraud detection model on 284K+ transactions — **96% AUC-ROC**.
+Built a fraud detection model on 284K+ transactions - **96% AUC-ROC**.
 Reduced false-positive rate by 18% via feature engineering. Deployed as a FastAPI endpoint.
 
 ---
@@ -56,10 +56,10 @@ Reduced false-positive rate by 18% via feature engineering. Deployed as a FastAP
 ## Highlights
 
 - CGPA: **9.53 / 10** (till 6th Sem) @ BNMIT
-- Selected for **Super 60** — elite leadership program at BNMIT (4-round competitive process)
+- Selected for **Super 60** - elite leadership program at BNMIT (4-round competitive process)
 - **Samsung Innovation Campus** AI Program (2024)
 - Finalized in multiple **national hackathons** across AI, IoT & social impact
-- Operations & Engagement Lead — **SIGGRAPH BNMIT** (200+ student community)
+- Operations & Engagement Lead - **SIGGRAPH BNMIT** (200+ student community)
 
 ---
 
